@@ -87,6 +87,12 @@ The main parts of the script are:
     cv2.destroyAllWindows()
     ```
 
+## Outputs
+
+![WhatsApp Image 2024-05-14 at 06 41 28_fdb01068](https://github.com/user-attachments/assets/345ea20a-1cdc-4b98-87de-ee7f09b1a7c5)
+
+![WhatsApp Image 2024-05-14 at 06 41 28_a1960b9b](https://github.com/user-attachments/assets/e8eabf50-8efa-4ca8-bd76-f0ab8d6bd86e)
+
 ## Acknowledgements
 
 - [OpenCV](https://opencv.org/) for providing the computer vision library.
