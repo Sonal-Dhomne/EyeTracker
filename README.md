@@ -87,10 +87,6 @@ The main parts of the script are:
     cv2.destroyAllWindows()
     ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [OpenCV](https://opencv.org/) for providing the computer vision library.
